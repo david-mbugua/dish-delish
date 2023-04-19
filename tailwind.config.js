@@ -13,6 +13,9 @@ module.exports = {
         }
       }
     },
+    fontFamily: {
+      body: ['Quicksand']
+    }
   },
   plugins: [],
 }
